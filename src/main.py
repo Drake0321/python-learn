@@ -5,7 +5,7 @@ x = "awesome"
 
 def myfunc():
     global x
-    x = "Mayank Srivastava"
+    x = "Mayank Srivastava test"
     print("Python is " + x)
     hello("This is hello")
 
